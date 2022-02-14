@@ -1,0 +1,13 @@
+.dialogs {
+    height: 100%;
+    padding-left: 20px;
+    display: flex;
+    gap: 20px;
+    background-color: cornflowerblue;
+}
+.dialogs .dialogsItems {
+    padding-top: 20px;
+}
+.messages {
+    padding-top: 20px;
+}

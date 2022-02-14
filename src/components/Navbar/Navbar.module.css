@@ -1,4 +1,19 @@
 .nav {
-    grid-area: n;
     background-color: burlywood;
+    padding: 20px 60px 60px 60px;
+    flex-grow: 1;
+}
+.item{
+    text-decoration: none;
+    color: white;
+}
+.item:hover {
+    color: green;
+}
+.active {
+    color: gold;
+    text-decoration: none;
+}
+.active:hover {
+    color: green;
 }
